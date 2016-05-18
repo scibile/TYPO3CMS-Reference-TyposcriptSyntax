@@ -1,8 +1,0 @@
-# Settings.yml
----
-conf.py:
-  project: TypoScript Syntax and In-depth Study
-  copyright: 2000-2013
-  version: 4.7.0
-  release: 4.7.0
-...
