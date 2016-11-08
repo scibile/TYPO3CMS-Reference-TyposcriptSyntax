@@ -469,7 +469,7 @@ Remember:
 
 - References are only resolved for Content Objects, otherwise references are
   not resolved. For example, you **cannot** use a
-  reference :code:`< plugin.tx_example.settings.foo` to find the value of `foo`.
+  reference :code:`=< plugin.tx_example.settings.foo` to find the value of `foo`.
   The value you get will be just :code:`< plugin.tx_example.settings.foo` instead.
 
 
